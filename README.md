@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6ec6691d-7dd9-47d9-80f6-ebf9bf77eada)
+
 # Generador Automático de Certificados
 
 ## Tabla de Contenidos
