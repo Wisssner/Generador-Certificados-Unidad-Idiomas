@@ -86,5 +86,8 @@ Para utilizar esta herramienta, necesitas:
 ### 4. Archivos generados
 
 Los certificados se guardarán en la carpeta seleccionada con el formato de nombre: Código-Nombres
-  ![image](https://github.com/user-attachments/assets/eef55206-c441-4c47-8b2f-46f7ebc0c05e)
+  ![image](https://github.com/user-attachments/assets/f0b4fe81-824a-4c9f-84d0-3a91387bf0cf)
+  
+  **Nota**: Los datos utilizados en esta demostración son simulados para preservar la privacidad de los participantes.
+
 
