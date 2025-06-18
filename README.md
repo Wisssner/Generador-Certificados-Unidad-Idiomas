@@ -18,7 +18,8 @@
 
 El **Generador Automático de Certificados** es una herramienta diseñada para automatizar el proceso de emisión de certificados de participación. Utilizando **Microsoft Excel** y **Microsoft Word**, el sistema reemplaza los datos de los participantes en una plantilla de Word, generando un archivo individual para cada uno, sin intervención manual. Esta herramienta está orientada a organizaciones y eventos que requieren emitir certificados a gran escala de forma eficiente y precisa.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0b2df5f1-754c-4428-8b65-0734cb687f9a)
+
 
 ## Objetivo
 
